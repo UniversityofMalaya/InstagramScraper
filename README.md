@@ -10,7 +10,7 @@ pip install selenium
  
  # Drivers
  
- Selenium requires a driver to interface with the chosen browser.
+ Selenium requires a driver to interface with the chosen browser.The driver creates a dummy       browser that can be used to view and access the webpage.
  You can use your prefered web driver to run the code.
  
  * Chrome  :  https://chromedriver.chromium.org/downloads
